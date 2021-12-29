@@ -1,6 +1,6 @@
 # Routing
 
-The project is aiming to find shortest path between two countries by Jgrapht library in terms of number of countries.
+The project is aiming to find shortest path between two countries by Jgrapht library in terms of number of borders.
 
 # Technologies
 
