@@ -4,7 +4,7 @@ The project is aiming to find shortest path between two countries by Jgrapht lib
 
 # Technologies
 
-Java , maven
+Java 1.8 , maven
 
 # Setup
 Linux/OS X:
